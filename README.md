@@ -21,7 +21,7 @@ Retail Revolutionizer is a web application designed to address the challenges fa
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-- git clone https://github.com/Dhruvpandey08/RetailRev.git
+- git clone `https://github.com/Dhruvpandey08/RetailRev.git`
 
 
 2. Install dependencies:
@@ -30,3 +30,7 @@ To run this project locally, follow these steps:
 - npm run dev
 
 ## ScreenShots
+<img width="948" alt="Capture" src="https://github.com/user-attachments/assets/545beda4-b15f-46a1-be0e-c26cfbfcd60e">
+<img width="938" alt="1" src="https://github.com/user-attachments/assets/e9cd075a-30aa-4b08-8c06-47b0e0572d54">
+<img width="946" alt="2" src="https://github.com/user-attachments/assets/b2897422-8763-47ed-b4fd-29c812ac7315">
+<img width="944" alt="4" src="https://github.com/user-attachments/assets/3f5479c9-0323-4061-90eb-33a5e026fbb9">
