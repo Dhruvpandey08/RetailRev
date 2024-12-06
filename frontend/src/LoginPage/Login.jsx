@@ -66,7 +66,7 @@ return (
 
     <div className="flex flex-col items-center justify-center md:px-6 md:py-8 md:mx-10 lg:py-0 font-Poppins mb-10 h-full">
         <a href="/" className="flex items-center mb-6 text-2xl  font-Poppins text-gray-90">
-            RetailRevolutioner
+            RetailRevolutionizer
         </a>
         <div className="w-full bg-white rounded-lg shadow  md:mt-0 sm:max-w-md xl:p-0 ">
             <div className="p-6 space-y-4 md:space-y-6 sm:p-8">

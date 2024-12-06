@@ -17,7 +17,7 @@ return (
             <div className='flex justify-start sm:text-2xl md:text-3xl lg:text-5xl'> Welcome To </div>
                 <div className='bg-gradient-to-r bg-clip-text  text-transparent 
                     from-indigo-500 via-purple-500 to-indigo-500
-                    animate-textflex justify-start sm:text-2xl md:text-3xl lg:text-5xl'> RetailRevolutioner </div>
+                    animate-textflex justify-start sm:text-2xl md:text-3xl lg:text-5xl'> RetailRevolutionizer </div>
                     <div className="text-[#373b4e] mt-2 flex justify-start text-base md:text-lg lg:text-xl tracking-tighter">
                         We Are Here To - Grow Your Business !
                     </div>
